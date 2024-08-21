@@ -1,5 +1,11 @@
-## Hi there 👋
+## oi, quer um café? 👋
+.Meu nome é Arthur Rocha Pereira
 
+.Estou estudando na Alura
+
+.Estou me desenvolvendo na linguagem JavaScript
+
+.Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **ATK673/ATK673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
